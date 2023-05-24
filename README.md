@@ -1,8 +1,6 @@
-# Berlin-red-list
+# Berlin-red-list **Work-in-progress**
 
 Extracting Berlin red list data from different published sources. 
-
-**Work-in-progress**
 
 ## Next to be developed:
 1. basic README
