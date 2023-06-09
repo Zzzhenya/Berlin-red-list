@@ -8,12 +8,12 @@ Extracting Berlin red list data from different published sources.
 
 1. EDA -  **DONE**
 2. Data Extraction - **DONE**
-3. Raw data transformation - Transformation step 1  - **HERE**
-4. Adding taxonomy backbone - Transformation step 2
-5. Addng meta data table - Transformation step 3
-6. Extinct species full data list - Transformation step 4
-7. Basic README
-8. Publishing the transformation process
+3. Raw data transformation - Transformation step 1  - **DONE**
+4. Adding taxonomy backbone - Transformation step 2 - **DONE**
+5. Addng meta data table - Transformation step 3 - **HERE**
+6. Extinct species full data list - Transformation step 4 - **DONE**
+7. Basic README - **DONE**
+8. Publishing the transformation process - **HERE**
 9. Publishing references
 10. How to reproduce the process - documentation v1
 11. Moving transformation to Databricks
