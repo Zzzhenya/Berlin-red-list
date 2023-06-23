@@ -6,6 +6,31 @@ Extracting Berlin red list data from different published sources.
 
 This project is an effort to extract specific information from a multitude of sources to form a singular list that reflects extinct species in Berlin. The data extraction process is made available so the final research outcomes can be reproducible.  
 
+## Data Source
+
+Main Source: 
+
+[Species Lists – Red Lists of Endangered Plants, Animals and Fungi from Berlin](https://www.berlin.de/sen/uvk/natur-und-gruen/naturschutz/artenschutz/artenlisten-rote-listen/) / Artenlisten – Rote Listen der gefährdeten Pflanzen, Tiere und Pilze von Berlin
+
+| #  | List Name   | Author/s    | Primary Link |  Secondary Link |
+| -- | ----------- | ----------- | -----------  | --------------- |
+| 01 |        |  |||
+| 02 |         |  |||
+| 03 |        |  |||
+| 04 |         |  |||
+| 05 |        |  |||
+| 06 |         |  |||
+| 07 |        |  |||
+| 08 |         |  |||
+| 09 |        |  |||
+| 10 |         |  |||
+| 11 |        |  |||
+| 12 |         |  |||
+| 13 |        |  |||
+| 14 |         |  |||
+| 15 |        |  |||
+| 16 |         |  |||
+
 ## Development steps:
 
 1. EDA -  **DONE**
