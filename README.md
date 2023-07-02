@@ -6,6 +6,41 @@ Extracting Berlin red list data from different published sources.
 
 This project is an effort to extract specific information from a multitude of sources to form a singular list that reflects extinct species in Berlin. The data extraction process is made available so the final research outcomes can be reproducible.  
 
+## Tools and libraries
+
+* Python
+* Pandas
+* NumPy
+* Camelot
+* PyGBIF
+* Xmind
+* Potentially: Databricks, Google Drive
+
+## How to setup
+
+Setting up dependencies using the requirements file
+
+```
+
+pip install -r requirements.txt
+
+```
+
+## Development steps:
+
+1. EDA -  **DONE**
+2. Data Extraction - **DONE**
+3. Raw data transformation - Transformation step 1  - **DONE**
+4. Adding taxonomy backbone - Transformation step 2 - **DONE**
+5. ~~Addng metadata table - Transformation step 3~~
+6. Extinct species concatenated data list - Transformation step 4 - **DONE**
+7. Basic README - **DONE**
+8. Publishing the transformation process - **HERE**
+9. Publishing references **DONE**
+10. How to reproduce the process - documentation v1 **HERE**
+11. Moving transformation to Databricks
+12. How to reproduce the process - documentation v2
+
 ## Data Source
 
 Main Source: 
@@ -51,36 +86,3 @@ Main Source:
 | 35 |Rote Liste und Gesamtartenliste der Brandpilze (Ustilaginales) von Berlin|Hildemar Scholz & Ilse Scholz|[Link](https://www.berlin.de/sen/uvk/_assets/natur-gruen/naturschutz/artenschutz/rote-listen/06_brandpilze_print.pdf?ts=1649931234)||
 | 36 |Rote Liste und Gesamtartenliste der Armleuchteralgen (Characeae) von Berlin|Wolf-Henning Kusber, Regine Jahn & Heiko Korsch|[Link](https://www.berlin.de/sen/uvk/_assets/natur-gruen/naturschutz/artenschutz/rote-listen/rote_liste_armleuchteralgen_kusber_et_al.pdf?ts=1649931234)||
 | 37 |Rote Liste und Gesamtartenliste der limnischen Rotalgen (Rhodophyta) und Braunalgen (Phaeophyceae) von Berlin|Klaus Rudolph, Regine Jahn & Wolf-Henning Kusber|[Link](https://www.berlin.de/sen/uvk/_assets/natur-gruen/naturschutz/artenschutz/rote-listen/rote_liste_rotalgen_rudolph_et_al.pdf?ts=1649931234)||
-
-## Development steps:
-
-1. EDA -  **DONE**
-2. Data Extraction - **DONE**
-3. Raw data transformation - Transformation step 1  - **DONE**
-4. Adding taxonomy backbone - Transformation step 2 - **DONE**
-5. ~~Addng metadata table - Transformation step 3~~
-6. Extinct species concatenated data list - Transformation step 4 - **DONE**
-7. Basic README - **DONE**
-8. Publishing the transformation process - **HERE**
-9. Publishing references
-10. How to reproduce the process - documentation v1
-11. Moving transformation to Databricks
-12. How to reproduce the process - documentation v2
-
-## Tools and libraries
-
-* Python
-* Pandas
-* NumPy
-* Camelot
-* PyGBIF
-* Xmind
-* Potentially: Databricks, Google Drive
-
-## How to setup
-
-Setting up dependencies using the requirements file
-
-```
-pip install -r requirements.txt
-```
