@@ -14,46 +14,43 @@ Main Source:
 
 | #  | List Name   | Author/s    | Primary Link |  Secondary Link |
 | -- | ----------- | ----------- | -----------  | --------------- |
-| 01 | Rote Liste und Gesamtartenliste der Großschmetterlinge (Lepidoptera: Makrolepidoptera) von Berlin|             |              |                 |
-| 02 | Rote Liste und Gesamtartenliste der Sackträger (Lepidoptera: Psychidae) von Berlin|  |||
-| 03 |Rote Liste und Gesamtartenliste
-der Libellen (Odonata) von Berlin |  |||
-| 04 |Rote Liste und Gesamtartenliste der Heuschrecken und Grillen (Saltatoria: Ensifera et Caelifera) von Berlin|  |||
-| 05 |Rote Liste und Gesamtartenliste
-der Zikaden (Hemiptera: Fulgoromorpha
-und Cicadomorpha) von Berlin|  |||
-| 06 |Rote Liste und Gesamtartenliste der Kamelhalsfliegen, Schlammfliegen und Netzflügler (Raphidioptera, Megaloptera, Neuroptera) von Berlin|  |||
-| 07 |Rote Liste und Gesamtartenliste der Bienen und Wespen (Hymenoptera part.) von Berlin mit Angaben zu den Ameisen|  |||
-| 08 |Rote Liste und Gesamtartenliste der Köcherfliegen (Trichoptera) von Berlin|  |||
-| 09 |Rote Liste und Gesamtartenliste der Schnabelfliegen (Mecoptera) von Berlin|  |||
-| 10 | Rote Liste und Gesamtartenliste der Raubfliegen (Diptera: Asilidae) von Berlin|  |||
-| 11 |Rote Liste und Gesamtartenliste der Eintagsfliegen (Ephemeroptera) von Berlin|  |||
-| 12 |Rote Liste und Gesamtartenliste der Schwebfliegen (Diptera: Syrphidae) von Berlin|  |||
-| 13 |Rote Liste und Gesamtartenliste der Wanzen (Heteroptera) von Berlin|  |||
-| 14 |Rote Liste und Gesamtartenliste der Wasserkäfer (Coleoptera: Hydradephaga, Hydrophiloidea part., Hydraenidae, Elmidae und Dryopidae) von Berlin|  |||
-| 15 |Rote Liste und Gesamtartenliste der Laufkäfer (Coleoptera: Carabidae) von Berlin|  |||
-| 16 |Rote Liste und Gesamtartenliste der Prachtkäfer (Coleoptera: Buprestidae) von Berlin|  |||
-| 17 |Rote Liste und Gesamtartenliste der Blattkäfer (Chrysomelidae und Megalopodidae) von Berlin|  |||
-| 18 |Rote Liste und Gesamtartenliste der Blatthornkäfer (Coleoptera: Scarabaeoidea) von Berlin|  |||
-| 19 |Rote Liste und Gesamtartenliste der Kurzflügelkäferartigen und Stutzkäfer (Coleoptera: Staphylinoidea und Histeridae) von Berlin|  |||
-| 20 |Rote Liste und Gesamtartenliste der Kapuzinerkäferartigen (Bostrichoidea), Buntkäferartigen (Cleroidea), Plattkäferartigen (Cucujoidea), Schnellkäferartigen (Elateroidea), Werftkäferartigen (Lymexyloidea) und Schwarzkäferartigen (Tenebrioidea) von Berlin (Coleoptera)|  |||
-| 21 |Rote Liste und Gesamtartenliste der Bockkäfer (Coleoptera: Cerambycidae) von Berlin|  |||
-| 22 |Rote Liste und Gesamtartenliste der Rüsselkäfer (Curculionoidea) von Berlin|  |||
-| 23 |Rote Liste und Gesamtartenliste der Spinnen (Araneae) und Gesamtartenliste der Weberknechte (Opiliones) von Berlin|  |||
-| 24 |Rote Liste und Gesamtartenliste der Weichtiere (Mollusca: Gastropoda und Bivalvia) von Berlin|  |||
+| 01 |Rote Liste und Gesamtartenliste der Großschmetterlinge (Lepidoptera: Makrolepidoptera) von Berlin |Jörg Gelbrecht, Alessandro Kormannshaus, Bernd Krüger, Fred Ockruck, Bernd Schulze, Franz Theimer, Peter Weisbach, Hubert Woelky, Otfried Woelky & Michael Woelky|||
+| 02 |Rote Liste und Gesamtartenliste der Sackträger (Lepidoptera: Psychidae) von Berlin|Michael Weidlich|||
+| 03 |Rote Liste und Gesamtartenliste der Libellen (Odonata) von Berlin|Falk Petzold unter Mitarbeit von Peter Jahn|||
+| 04 |Rote Liste und Gesamtartenliste der Heuschrecken und Grillen (Saltatoria: Ensifera et Caelifera) von Berlin|Bernd Machatzi, Andreas Ratsch, Rüdiger Prasse & Michael Ristow|||
+| 05 |Rote Liste und Gesamtartenliste der Zikaden (Hemiptera: Fulgoromorpha und Cicadomorpha) von Berlin|Herbert Nickel & Roland Mühlethaler|||
+| 06 |Rote Liste und Gesamtartenliste der Kamelhalsfliegen, Schlammfliegen und Netzflügler (Raphidioptera, Megaloptera, Neuroptera) von Berlin|Christoph Saure|||
+| 07 |Rote Liste und Gesamtartenliste der Bienen und Wespen (Hymenoptera part.) von Berlin mit Angaben zu den Ameisen|Christoph Saure unter Mitarbeit von Thomas Ziska|||
+| 08 |Rote Liste und Gesamtartenliste der Köcherfliegen (Trichoptera) von Berlin|Reinhard Müller & Wolfram Mey|||
+| 09 |Rote Liste und Gesamtartenliste der Schnabelfliegen (Mecoptera) von Berlin|Christoph Saure|||
+| 10 | Rote Liste und Gesamtartenliste der Raubfliegen (Diptera: Asilidae) von Berlin|Günter Degen|||
+| 11 |Rote Liste und Gesamtartenliste der Eintagsfliegen (Ephemeroptera) von Berlin|Reinhard Muller|||
+| 12 |Rote Liste und Gesamtartenliste der Schwebfliegen (Diptera: Syrphidae) von Berlin|Christoph Saure|||
+| 13 |Rote Liste und Gesamtartenliste der Wanzen (Heteroptera) von Berlin|Jürgen Deckert & Gerhard Burghardt|||
+| 14 |Rote Liste und Gesamtartenliste der Wasserkäfer (Coleoptera: Hydradephaga, Hydrophiloidea part., Hydraenidae, Elmidae und Dryopidae) von Berlin|Lars Hendrich & Reinhard Müller|||
+| 15 |Rote Liste und Gesamtartenliste der Laufkäfer (Coleoptera: Carabidae) von Berlin|Karl-Hinrich Kielhorn|||
+| 16 |Rote Liste und Gesamtartenliste der Prachtkäfer (Coleoptera: Buprestidae) von Berlin|Stephan Gottwald|||
+| 17 |Rote Liste und Gesamtartenliste der Blattkäfer (Chrysomelidae und Megalopodidae) von Berlin|Uwe Heinig & Matthias Schöller unter Mitarbeit von Ulf Arnold, Jens Esser, Lars Hendrich, Hella Wendt und Herbert Winkelmann|||
+| 18 |Rote Liste und Gesamtartenliste der Blatthornkäfer (Coleoptera: Scarabaeoidea) von Berlin|Jens Esser|||
+| 19 |Rote Liste und Gesamtartenliste der Kurzflügelkäferartigen und Stutzkäfer (Coleoptera: Staphylinoidea und Histeridae) von Berlin|Jens Esser|||
+| 20 |Rote Liste und Gesamtartenliste der Kapuzinerkäferartigen (Bostrichoidea), Buntkäferartigen (Cleroidea), Plattkäferartigen (Cucujoidea), Schnellkäferartigen (Elateroidea), Werftkäferartigen (Lymexyloidea) und Schwarzkäferartigen (Tenebrioidea) von Berlin (Coleoptera)|Jens Esser|||
+| 21 |Rote Liste und Gesamtartenliste der Bockkäfer (Coleoptera: Cerambycidae) von Berlin|Jens Esser|||
+| 22 |Rote Liste und Gesamtartenliste der Rüsselkäfer (Curculionoidea) von Berlin|Christoph Bayer & Herbert Winkelmann|||
+| 23 |Rote Liste und Gesamtartenliste der Spinnen (Araneae) und Gesamtartenliste der Weberknechte (Opiliones) von Berlin|Ulrike Kielhorn|||
+| 24 |Rote Liste und Gesamtartenliste der Weichtiere (Mollusca: Gastropoda und Bivalvia) von Berlin|Eva Hackenberg & Reinhard Müller|||
 | 25 |Gesamtartenliste und Rote Liste der Fische und Neunaugen (Pisces et Cyclostomata) von Berlin|  |||
-| 26 |Rote Liste und Gesamtartenliste der Kriechtiere (Reptilia) von Berlin|  |||
-| 27 |Rote Liste und Gesamtartenliste der Lurche (Amphibia) von Berlin|  |||
-| 28 |Rote Liste und Liste der Brutvögel (Aves) von Berlin|  |||
-| 29 |Rote Liste und Gesamtartenliste der Säugetiere (Mammalia) von Berlin|  |||
-| 30 |Rote Liste und Gesamtartenliste der etablierten Farn- und Blütenpflanzen von Berlin|  |||
-| 31 |Rote Liste und Gesamtartenliste der Moose (Bryophyta) von Berlin|  |||
-| 32 |Rote Liste und Gesamtartenliste der Flechten (Lichenes) von Berlin|  |||
-| 33 |Rote Liste und Gesamtartenliste der Röhrlinge s. l. (Boletales) von Berlin|  |||
-| 34 |Rote Liste und Gesamtartenliste der flechtenbewohnenden (lichenicolen) Pilze von Berlin|  |||
-| 35 |Rote Liste und Gesamtartenliste der Brandpilze (Ustilaginales) von Berlin|  |||
-| 36 |Rote Liste und Gesamtartenliste der Armleuchteralgen (Characeae) von Berlin|  |||
-| 37 |Rote Liste und Gesamtartenliste der limnischen Rotalgen (Rhodophyta) und Braunalgen (Phaeophyceae) von Berlin|  |||
+| 26 |Rote Liste und Gesamtartenliste der Kriechtiere (Reptilia) von Berlin|Klaus-Detlef Kühnel, Jens Scharon, Beate Kitzmann & Beate Schonert unter Mitarbeit von Daniel Bohle|||
+| 27 |Rote Liste und Gesamtartenliste der Lurche (Amphibia) von Berlin|Klaus-Detlef Kühnel, Jens Scharon, Beate Kitzmann & Beate Schonert unter Mitarbeit von Angele Schonert (†)|||
+| 28 |Rote Liste und Liste der Brutvögel (Aves) von Berlin|Klaus Witt & Klemens Steiof|||
+| 29 |Rote Liste und Gesamtartenliste der Säugetiere (Mammalia) von Berlin|Jürgen Klawitter, Rainer Altenkamp, Carsten Kallasch, Dieter Köhler, Manfred Krauß, Susanne Rosenau & Tobias Teige|||
+| 30 |Rote Liste und Gesamtartenliste der etablierten Farn- und Blütenpflanzen von Berlin|Birgit Seitz, Michael Ristow, Justus Meißner, Bernd Machatzi, Herbert Sukopp|||
+| 31 |Rote Liste und Gesamtartenliste der Moose (Bryophyta) von Berlin|Jürgen Klawitter & Hanna Köstler|||
+| 32 |Rote Liste und Gesamtartenliste der Flechten (Lichenes) von Berlin|Josephin Krause, Hans-Georg Wagner & Volker Otte|||
+| 33 |Rote Liste und Gesamtartenliste der Röhrlinge s. l. (Boletales) von Berlin|Martin Schmidt unter Mitarbeit von Mitgliedern der Pilzkundlichen Arbeitsgemeinschaft Berlin-Brandenburg e.V. (PABB) und der Interessengemeinschaft Märkischer Mykologen (IMM)|||
+| 34 |Rote Liste und Gesamtartenliste der flechtenbewohnenden (lichenicolen) Pilze von Berlin|Hans-Georg Wagner, Josephin Krause & Volker Otte|||
+| 35 |Rote Liste und Gesamtartenliste der Brandpilze (Ustilaginales) von Berlin|Hildemar Scholz & Ilse Scholz|||
+| 36 |Rote Liste und Gesamtartenliste der Armleuchteralgen (Characeae) von Berlin|Wolf-Henning Kusber, Regine Jahn & Heiko Korsch|||
+| 37 |Rote Liste und Gesamtartenliste der limnischen Rotalgen (Rhodophyta) und Braunalgen (Phaeophyceae) von Berlin|Klaus Rudolph, Regine Jahn & Wolf-Henning Kusber|||
 
 ## Development steps:
 
