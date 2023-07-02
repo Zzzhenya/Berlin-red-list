@@ -78,3 +78,9 @@ Main Source:
 * Potentially: Databricks, Google Drive
 
 ## How to setup
+
+Setting up dependencies using the requirements file
+
+```
+pip install -r requirements.txt
+```
