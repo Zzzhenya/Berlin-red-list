@@ -4,7 +4,7 @@ Extracting Berlin red list data from different published sources.
 
 [IUCN Red List](https://en.wikipedia.org/wiki/IUCN_Red_List) is an inventory of the global conservation status and extinction risk of species. As conservation status can vary between locations, extinction can be defined relative to the locality as well. Because of this, there are other red lists for geo-political areas. In the case of Germany, the [overall red list for Germany](https://www.rote-liste-zentrum.de/en/index.html) as well as the red lists for each state are available. While the country red lists are compiled in a singular format and available digitally, the lists for Berlin state are of varying structure and are only available as their initial research publication format (either as pdf or in print). 
 
-This project is an effort to extract species data from multiple sources to form a singular list that reflects extinct species in Berlin. The data extraction process is made available so the final research outcomes can be reproducible.  
+This project is an effort to extract species data from multiple sources to form a singular list that reflects extinct species in Berlin. The data extraction process is made available so the final research outcomes are reproducible.  
 
 ## Data Transformation Process
 
