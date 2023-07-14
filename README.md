@@ -38,9 +38,9 @@ Setting up dependencies using the requirements file
 6. Extinct species concatenated data list - Transformation step 4 - **DONE**
 7. Basic README - **DONE**
 8. Updating the transformation process for Makrolepidoptera - **HERE**
-9. Publishing the transformation process - **HERE**
+9. Publishing the transformation process - **DONE**
 10. Publishing references **DONE**
-11. How to reproduce the process - documentation v1 **HERE**
+11. How to reproduce the process - documentation v1 **DONE**
 12. Moving transformation to Databricks
 13. How to reproduce the process - documentation v2
 
