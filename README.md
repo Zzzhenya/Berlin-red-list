@@ -33,11 +33,15 @@ cd Berln-red-list
 
 [2. Install uv](https://docs.astral.sh/uv/getting-started/installation/)
 
-`pip install uv`
+```
+pip install uv
+```
 
 3. Install dependencies and open Jupyter notebooks
 
-`uv run Jupyter lab`
+```
+uv run Jupyter lab
+```
 
 
 ## Development steps:
