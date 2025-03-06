@@ -31,7 +31,7 @@ git clone https://github.com/Zzzhenya/Berlin-red-list.git
 cd Berln-red-list
 ```
 
-![2. Install uv](https://docs.astral.sh/uv/getting-started/installation/)
+[2. Install uv](https://docs.astral.sh/uv/getting-started/installation/)
 
 `pip install uv`
 
