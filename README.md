@@ -22,11 +22,23 @@ This project is an effort to extract species data from multiple sources to form 
 
 ## How to setup
 
-Setting up dependencies using the requirements file
+Setting up dependencies with uv and pyproject.toml
+
+1. Clone the repository and move to folder
 
 ```
-  pip install -r requirements.txt
+git clone https://github.com/Zzzhenya/Berlin-red-list.git
+cd Berln-red-list
 ```
+
+![2. Install uv](https://docs.astral.sh/uv/getting-started/installation/)
+
+`pip install uv`
+
+3. Install dependencies and open Jupyter notebooks
+
+`uv run Jupyter lab`
+
 
 ## Development steps:
 
