@@ -1,0 +1,24 @@
+Familie,Familie_deutsch,Gattung,Artname,Genus,Species,Wissenschaftlicher Name,BE,Bestand,Vor_1990,1990_2017,Trend_kurz,Habitat,D,BB,GS,Deutscher_name
+Nolidae,,"Nola LEACH, 1815","aerugula (HÜBNER, 1793)",Nola,aerugula,Nola aerugula,0,ex,x,–,,"CH, ZM, BW",V,⬤,§,Laubholz-Graueulchen
+Nolidae,,"Nycteola HÜBNER, 1822","asiatica (KRULIKOVSKY, 1904)",Nycteola,asiatica,Nycteola asiatica,D,ex,x 1951,–,,?,D,⬤,,Weiden-Wicklereulchen
+Erebidae,,"Laelia STEPHENS, 1828","coenosa (HÜBNER, 1808)",Laelia,coenosa,Laelia coenosa,0,ex,x vor 1900,–,,"ROE, ZM",2,⬤,,Gelbbein
+Erebidae,,"Gynaephora HÜBNER, 1819","fascelina (LINNAEUS, 1758)",Gynaephora,fascelina,Gynaephora fascelina,0,ex,x 1975,–,,"BGH, CH",2,⬤,,Ginster-Streckfuß
+Erebidae,,"Orgyia OCHSENHEIMER, 1810","recens (HÜBNER, 1819)",Orgyia,recens,Orgyia recens,0,ex,x 1962,–,,"?(LMW, BW)",1,o,§,Eckfleck-Bürstenspinner
+Erebidae,,"Epatolmis BUTLER, 1877","luctifera (DEN. & SCHIFF., 1775)",Epatolmis,luctifera,Epatolmis luctifera,0,ex,x 1966,–,,TR,2,⬤,,Kaiserbär
+Erebidae,,"Arctia SCHRANK, 1802","festiva (HUFNAGEL, 1766)",Arctia,festiva,Arctia festiva,0,ex,x 1936,–,,TR,0,o,§,Englischer Bär
+Erebidae,,"Arctia SCHRANK, 1802","villica (LINNAEUS, 1758)",Arctia,villica,Arctia villica,0,ex,x 1960,–,,HE,2,⬤,§§,Schwarzer  Bär
+Erebidae,,"Hyphoraia HÜBNER, 1820","aulica (LINNAEUS, 1758)",Hyphoraia,aulica,Hyphoraia aulica,0,ex,x vor 1858,–,,"TR, CH",1,⬤,§§,Hofdame
+Erebidae,,"Eilema HÜBNER, 1819","lurideola (ZINCKEN, 1817)",Eilema,lurideola,Eilema lurideola,0,ex,x 1979,–,,"BuW, KWB",*,⬤,,Grauleib-Flechtenbärchen
+Erebidae,,"Eilema HÜBNER, 1819","palliatella (SCOPOLI, 1763)",Eilema,palliatella,Eilema palliatella,0,ex,x vor 1900,–,,TR (Flechten),1,o,,Ockergelbes Flechtenbärchen
+Erebidae,,"Setina SCHRANK, 1802","irrorella (LINNAEUS, 1758)",Setina,irrorella,Setina irrorella,0,ex,x vor 1950 ?,–,,TR (Flechten),V,⬤,§,Trockenrasen-Flechtenbärchen
+Erebidae,,"Dysauxes HÜBNER, 1819","ancilla (LINNAEUS, 1767)",Dysauxes,ancilla,Dysauxes ancilla,0,ex,x 1952,–,,"WRS, EW, WS",3,⬤,,Grosses Braunwidderchen
+Noctuidae,,"Syngrapha HÜBNER, 1821","interrogationis (LINNAEUS, 1758)",Syngrapha,interrogationis,Syngrapha interrogationis,♦,ex,x 1920,–,,"KWB, ZM",R,o,,Heidelbeeren-Silbereule
+Noctuidae,,"Polymixis HÜBNER, 1820","flavicincta (DEN. & SCHIFF., 1775)",Polymixis,flavicincta,Polymixis flavicincta,♦,ex,x vor 1982 (?E),–,,VG?,1,⬤,,Gelbliche Steineule
+Noctuidae,,"Actebia STEPHENS, 1829","praecox (LINNAEUS, 1758)",Actebia,praecox,Actebia praecox,0,ex,x 1978,–,,TR,1,⬤,,Grünliche Erdeule
+Noctuidae,,"Euxoa HÜBNER, 1821","cursoria (HUFNAGEL, 1766)",Euxoa,cursoria,Euxoa cursoria,0,ex,x vor 1900,–,,"TR, SGF",2,⬤,,Veränderliche Dünen-Erdeule
+Noctuidae,,"Euxoa HÜBNER, 1821","aquilina (DEN. & SCHIFF., 1775)",Euxoa,aquilina,Euxoa aquilina,0,ex,x 1977,–,,"TR, AF",*,⬤,,Getreideeule
+Noctuidae,,"Agrotis OCHSENHEIMER, 1816","cinerea (DEN. & SCHIFF., 1775)",Agrotis,cinerea,Agrotis cinerea,0,ex,x 1974,–,,"WS, CH",3,⬤,,Aschgraue Erdeule
+Noctuidae,,"Xestia HÜBNER, 1818","stigmatica (HÜBNER, 1813)",Xestia,stigmatica,Xestia stigmatica,0,ex,x vor 1900,–,,BuW,*,⬤,,Rhombus-Bodeneule
+Noctuidae,,"Xestia HÜBNER, 1818","castanea (ESPER, 1798)",Xestia,castanea,Xestia castanea,0,ex,x vor 1900,–,,CH,3,⬤,,Ginsterheiden-Bodeneule
+Noctuidae,,"Eugraphe HÜBNER, 1821","sigma (DEN. & SCHIFF., 1775)",Eugraphe,sigma,Eugraphe sigma,0,ex,x vor 1900,–,,KWB,2,⬤,,Sigma-Bodeneule
+Noctuidae,,"Protolampra MCDUNNOUGH, 1929","sobrina (DUPONCHEL, 1843)",Protolampra,sobrina,Protolampra sobrina,0,ex,x vor 1900,–,,"CH, KWB",2,⬤,,Heidemoor-Bodeneule

@@ -1,0 +1,17 @@
+[project]
+name = "berlin-extirpated-species"
+version = "0.1.0"
+description = "Extirpated species in Berlin based on Berlin red lists."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "camelot-py==0.11.0",
+    "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.2.3",
+    "pip>=25.0.1",
+    "pygbif>=0.6.5",
+    "seaborn>=0.13.2",
+]
