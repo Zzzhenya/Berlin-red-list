@@ -1,10 +1,10 @@
-# Extinct Species in Berlin 
+# Exttirpated Species in Berlin 
 
 Extracting Berlin red list data from different published sources. 
 
-[IUCN Red List](https://en.wikipedia.org/wiki/IUCN_Red_List) is an inventory of the global conservation status and extinction risk of species. As conservation status can vary between locations, extinction can be defined relative to the locality as well. Because of this, there are other red lists for geo-political areas. In the case of Germany, the [overall red list for Germany](https://www.rote-liste-zentrum.de/en/index.html) as well as the red lists for each state are available. While the country red lists are compiled in a singular format and available digitally, the lists for Berlin state are of varying structure and are only available as their initial research publication format (either as pdf or in print). 
+[IUCN Red List](https://en.wikipedia.org/wiki/IUCN_Red_List) is an inventory of the global conservation status and extinction risk of species. Extirpation is the extinction status of a species relative to a specific geo-political area. In the case of Germany, the [overall red list for Germany](https://www.rote-liste-zentrum.de/en/index.html) as well as the red lists for each state are available. While the country red lists are compiled in a singular format and available digitally, the lists for Berlin state are of varying structure and are only available as their initial research publication format (either as pdf or in print). 
 
-This project is an effort to extract species data from multiple sources to form a singular list that reflects extinct species in Berlin. The data extraction process is made available so the final research outcomes are reproducible.  
+This project is an effort to extract species data from multiple sources to form a singular list that reflects extirpated species in Berlin. The data extraction process is made available so the final research outcomes are reproducible.  
 
 ## Data Transformation Process
 
@@ -24,24 +24,36 @@ This project is an effort to extract species data from multiple sources to form 
 
 Setting up dependencies with uv and pyproject.toml
 
-1. Clone the repository and move to folder
+#### 1. Clone the repository and move to folder
 
 ```
 git clone https://github.com/Zzzhenya/Berlin-red-list.git
 cd Berln-red-list
 ```
 
-2. [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
+#### 2. [Install uv](https://docs.astral.sh/uv/getting-started/installation/)
 
-```
-pip install uv
-```
+`pip install uv`
 
-3. Install dependencies and open Jupyter notebooks
+#### 3. Check uv is installed
 
-```
-uv run Jupyter lab
-```
+`which uv` or `uv`
+
+If `uv not found` add  "~/.local/bin" to $PATH variable
+
+`echo $PATH`
+
+copy what is printed eg: 
+
+`/home/myhome/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin`
+
+add `:~/.local/bin` to the end and export. eg:
+
+`export PATH="/home/myhome/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:~/.local/bin"`
+
+#### 4. Install dependencies and launch Jupyter notebooks
+
+`uv run jupyter lab`
 
 
 ## Development steps:
@@ -51,14 +63,15 @@ uv run Jupyter lab
 3. Raw data transformation - Transformation step 1  - **DONE**
 4. Adding taxonomy backbone - Transformation step 2 - **DONE**
 5. ~~Addng metadata table - Transformation step 3~~
-6. Extinct species concatenated data list - Transformation step 4 - **DONE**
+6. Extirpated species concatenated data list - Transformation step 4 - **DONE**
 7. Basic README - **DONE**
 8. Updating the transformation process for Makrolepidoptera - **HERE**
 9. Publishing the transformation process - **DONE**
 10. Publishing references **DONE**
 11. How to reproduce the process - documentation v1 **DONE**
-12. Moving transformation to Databricks
-13. How to reproduce the process - documentation v2
+12. Upgrade code to Camelot-py v 1.0 **HERE**
+13. Moving transformation to Databricks
+14. How to reproduce the process - documentation v2
 
 ## Data Source
 
