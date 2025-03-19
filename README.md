@@ -1,4 +1,4 @@
-# Exttirpated Species in Berlin 
+# Extirpated Species in Berlin 
 
 Extracting Berlin red list data from different published sources. 
 
