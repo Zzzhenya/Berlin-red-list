@@ -53,6 +53,10 @@ add `:~/.local/bin` to the end and export. eg:
 
 #### 4. Install dependencies and launch Jupyter notebooks
 
+`uv run --python 3.13 jupyter lab`
+
+or
+
 `uv run jupyter lab`
 
 
